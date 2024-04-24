@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drm-addoptio
-- 👀 I’m interested in WPA development
-- 🌱 I’m currently learning Nuxt 3, Firebase, Vue 3
-- 💞️ I’m looking to collaborate on building optimal WPAs
+- 👀 I’m interested in LLMs, chatbots, cybersecurity
+- 🌱 I’m currently learning langchain, cypher 
+- 💞️ I’m looking to collaborate on building optimal RAGs
 - 📫 How to reach me 
 
 <!---
