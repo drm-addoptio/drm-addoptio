@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drm-addoptio
 - 👀 I’m interested in LLMs, chatbots, cybersecurity
-- 🌱 I’m currently learning langchain, cypher 
-- 💞️ I’m looking to collaborate on building optimal RAGs
+- 🌱 I’m constantly learning new technologies.
+- 💞️ I’m looking to collaborate on building Agentic AI use cases.
 - 📫 How to reach me 
 
 <!---
